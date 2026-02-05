@@ -52,3 +52,8 @@ The modeling phase, documented in `Projeto_2.ipynb`, involved benchmarking sever
 - **`Projeto_1.ipynb` (Phase I: EDA and Data Preparation)**: This notebook serves as the project's analytical foundation, containing the full data cleaning pipeline. It documents the systematic handling of missing values through imputation, the removal of duplicate entries, and the mitigation of outliers. Additionally, it features an array of exploratory visualizations—including density plots and correlation heatmaps—that provide a granular understanding of the descriptive statistics and the intrinsic relationships within the feature space.
 - **`Projeto_2.ipynb` (Phase II: Predictive Modeling and Validation)**: A detailed technical report focusing on the implementation and benchmarking of machine learning algorithms. This notebook covers the end-to-end training process, from hyperparameter tuning aimed at maximizing predictive accuracy to the use of rigorous cross-validation techniques. These validation methods ensure that performance metrics, such as RMSE and F1-scores, are reliable and that the models maintain high generalization capabilities across different data subsets.
 - **`group_15.csv` (Primary Dataset)**: The core source file containing the 3,000 raw instances analyzed throughout the study. This CSV file includes the complete set of 49 variables, encompassing both the audio features and the labels required for the supervised learning tasks. It serves as the definitive ground truth for evaluating and benchmarking the effectiveness of every regression and classification strategy implemented in the project notebooks.
+
+## Authors
+
+- **David Tavares Mendonça**
+- **Flávio Ferreira**
